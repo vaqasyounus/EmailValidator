@@ -22,4 +22,7 @@ public class EmailValidate {
         Matcher regMatcher = regexPattern.matcher(email);
         return regMatcher.matches();
     }
+    public void waqas(){
+
+    }
 }
